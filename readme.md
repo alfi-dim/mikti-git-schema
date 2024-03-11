@@ -9,3 +9,5 @@ MSIB MIKTI Batch 6 Challenge 1
 
 - [@alfi-dim](https://github.com/alfi-dim)
 
+### Branch 2
+perubahan ini terjadi di branch 2
